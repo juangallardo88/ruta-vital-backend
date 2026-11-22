@@ -14,7 +14,7 @@
     <artifactId>ruta-vital-backend</artifactId>
     <version>1.0.0</version>
     <name>ruta-vital-backend</name>
-    <description>API REST de Ruta Vital Cali: gestión de ambulancias, rutas y emergencias</description>
+    <description>API REST de Ruta Vital: gestión de ambulancias, rutas y emergencias</description>
 
     <properties>
         <java.version>17</java.version>
