@@ -22,6 +22,8 @@
 
 ![Vista de despliegue](docs/diagramas/5-vista-de-despliegue.png)
 
+## Descripción
+
 API REST para gestionar ambulancias, rutas y emergencias en San Juan de Pasto. Hecha con Java 17, Spring Boot 3.5, Spring Data MongoDB y Spring Security con JWT.
 
 ## Arquitectura
