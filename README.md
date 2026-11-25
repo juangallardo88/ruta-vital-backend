@@ -1,5 +1,27 @@
 # Ruta Vital — Backend
 
+## Diagramas
+
+### 1. Vista de contexto
+
+![Vista de contexto](docs/diagramas/1-vista-de-contexto.png)
+
+### 2. Vista funcional
+
+![Vista funcional](docs/diagramas/2-vista-funcional.png)
+
+### 3. Vista lógica
+
+![Vista lógica](docs/diagramas/3-vista-logica.png)
+
+### 4. Vista de desarrollo
+
+![Vista de desarrollo](docs/diagramas/4-vista-de-desarrollo.png)
+
+### 5. Vista de despliegue
+
+![Vista de despliegue](docs/diagramas/5-vista-de-despliegue.png)
+
 API REST para gestionar ambulancias, rutas y emergencias en San Juan de Pasto. Hecha con Java 17, Spring Boot 3.5, Spring Data MongoDB y Spring Security con JWT.
 
 ## Arquitectura
