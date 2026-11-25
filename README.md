@@ -4,23 +4,23 @@
 
 ### 1. Vista de contexto
 
-![Vista de contexto](docs/diagramas/1-vista-de-contexto.png)
+![Vista de contexto](diagramas/1.%20Vista%20de%20contexto.png)
 
 ### 2. Vista funcional
 
-![Vista funcional](docs/diagramas/2-vista-funcional.png)
+![Vista funcional](diagramas/2.%20Vista%20funcional.png)
 
 ### 3. Vista lógica
 
-![Vista lógica](docs/diagramas/3-vista-logica.png)
+![Vista lógica](diagramas/3.%20Vista%20l%C3%B3gica.png)
 
 ### 4. Vista de desarrollo
 
-![Vista de desarrollo](docs/diagramas/4-vista-de-desarrollo.png)
+![Vista de desarrollo](diagramas/4.%20Vista%20de%20desarrollo.png)
 
 ### 5. Vista de despliegue
 
-![Vista de despliegue](docs/diagramas/5-vista-de-despliegue.png)
+![Vista de despliegue](diagramas/5.%20Vista%20de%20despliegue.png)
 
 ## Descripción
 
